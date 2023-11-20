@@ -1,0 +1,4 @@
+https://huggingface.co/datasets/bigcode/the-stack
+https://huggingface.co/datasets/codeparrot/github-code/viewer/all-all/train?p=1
+Training CodeParrot 🦜 from Scratch
+https://huggingface.co/blog/codeparrot

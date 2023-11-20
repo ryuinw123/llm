@@ -1,0 +1,13 @@
+#if dont have venv
+python -m venv my-env
+
+#activate every time before install package
+.\my-env\Scripts\activate
+
+# install ipykernel, which consists of IPython as well First time in venv
+pip install ipykernel
+# create a kernel that can be used to run notebook commands inside the virtual environment
+python -m ipykernel install --user --name=my-env
+
+# launch JupyterLab
+jupyter lab
