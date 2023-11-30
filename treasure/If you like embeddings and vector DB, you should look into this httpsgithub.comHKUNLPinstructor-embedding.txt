@@ -1,0 +1,1 @@
+If you like embeddings and vector DB, you should look into this httpsgithub.comHKUNLPinstructor-embedding
